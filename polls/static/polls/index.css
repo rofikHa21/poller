@@ -1,0 +1,22 @@
+body{
+    font-family: Helvetica;
+    font-size: x-large;
+    background: bisque;
+}
+.container {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+li a  {
+    font-size: 2em;
+    color: #000080;
+    font-weight: bold;
+    line-height: 20px;
+    text-decoration: none;
+}
